@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ClickyGame/static/css/main.6f261858.chunk.css",
+    "main.js": "/ClickyGame/static/js/main.f5db7613.chunk.js",
+    "main.js.map": "/ClickyGame/static/js/main.f5db7613.chunk.js.map",
+    "runtime~main.js": "/ClickyGame/static/js/runtime~main.1eb9bb0a.js",
+    "runtime~main.js.map": "/ClickyGame/static/js/runtime~main.1eb9bb0a.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/ClickyGame/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/ClickyGame/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/ClickyGame/index.html",
+    "precache-manifest.53feb6bc12a12cd4e42ee8433a87264c.js": "/ClickyGame/precache-manifest.53feb6bc12a12cd4e42ee8433a87264c.js",
+    "service-worker.js": "/ClickyGame/service-worker.js",
+    "static/css/main.6f261858.chunk.css.map": "/ClickyGame/static/css/main.6f261858.chunk.css.map",
+    "static/media/bifur.jpg": "/ClickyGame/static/media/bifur.378a2f4b.jpg",
+    "static/media/bilbo.jpg": "/ClickyGame/static/media/bilbo.1d9e7f64.jpg",
+    "static/media/bofur.jpg": "/ClickyGame/static/media/bofur.4db5f5a7.jpg",
+    "static/media/elf.jpg": "/ClickyGame/static/media/elf.c7f3c7d4.jpg",
+    "static/media/fili.jpg": "/ClickyGame/static/media/fili.d13842e7.jpg",
+    "static/media/galadriel.jpg": "/ClickyGame/static/media/galadriel.36c6130b.jpg",
+    "static/media/gandalf.jpg": "/ClickyGame/static/media/gandalf.bd0dc0bb.jpg",
+    "static/media/gloin.jpg": "/ClickyGame/static/media/gloin.442b8d08.jpg",
+    "static/media/gollum.jpg": "/ClickyGame/static/media/gollum.829821e4.jpg",
+    "static/media/kili.jpg": "/ClickyGame/static/media/kili.76f27ffa.jpg",
+    "static/media/nori.jpg": "/ClickyGame/static/media/nori.1b402fae.jpg",
+    "static/media/ori.jpg": "/ClickyGame/static/media/ori.a1f4f3fa.jpg",
+    "static/media/thorin.jpg": "/ClickyGame/static/media/thorin.084a093e.jpg"
+  }
+}
